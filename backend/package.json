@@ -1,0 +1,23 @@
+{
+  "name": "backend",
+  "version": "0.0.0",
+  "private": true,
+  "scripts": {
+    "start": "node ./bin/www"
+  },
+  "dependencies": {
+    "axios": "^0.27.2",
+    "cookie-parser": "~1.4.4",
+    "debug": "~2.6.9",
+    "discord-logger": "^1.1.0",
+    "express": "~4.16.1",
+    "http-errors": "~1.6.3",
+    "jade": "~1.11.0",
+    "morgan": "~1.9.1",
+    "mysql2": "^2.3.3",
+    "node-fetch": "^3.2.10",
+    "sequelize": "^6.21.4",
+    "twitter-api-sdk": "^1.1.0",
+    "twitter-api-sdk-fork": "^1.0.9"
+  }
+}
